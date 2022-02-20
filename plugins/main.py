@@ -11,7 +11,7 @@ I can Upload Any Link in File or Video except Drm Protected Links
 
 Use Help Button to Know How to Use me
 
-Made With 💕 By @Tellybots
+Made With 💕 By @Badsha_Bot_Updates
 """
     HELP_TEXT = """
 Link to Media or File
@@ -26,22 +26,22 @@ Deleting Thumbnail
 Show Thumbnail
 ➠ Send /showthumb to view custom thumbnail.
 
-Made With 💕 By @Tellybots
+Made With 💕 By @Badsha_Bot_Updates
 """
     ABOUT_TEXT = """
  **🤖 Bot :** Url Uploader\n
- **👲 Developer :** [Tellybots](https://telegram.me/tellybots)\n
- **👥 Channel :** [Tellybots](https://telegram.me/tellybots)\n
+ **👲 Developer :** [Badsha Studios](https://t.me/kingBadsha3232)\n
+ **👥 Channel :** [🔰 ʙᴀᴅsʜᴀ sᴛᴜᴅɪᴏs 🔰](https://t.me/Badsha_Bot_Updates)\n
  **❄️ Credits :** Everyone in this journey\n
- **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
+ **🍴 Source :** [Click here](https://t.me/Badsha_Studios)\n
  **📝 Language :** [Python3](https://python.org)\n
  **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
  **🌟 Server :** [Heroku](https://heroku.com)\n
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Channel', url='https://telegram.me/tellybots'),
-        InlineKeyboardButton('💬 Support', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('🤖 Channel', url='https://t.me/Badsha_Bot_Updates'),
+        InlineKeyboardButton('💬 Support', url='https://t.me/Suport_Badsha_Studios')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
