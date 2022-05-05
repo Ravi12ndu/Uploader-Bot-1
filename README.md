@@ -34,7 +34,7 @@
 
 
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Badsha114/Uploader-Bot">
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Ravi12ndu/Uploader-Bot">
     <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="0" height="30" width="200"></a>
 </p>
 
